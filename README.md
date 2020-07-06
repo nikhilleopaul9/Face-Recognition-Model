@@ -1,10 +1,10 @@
 # Face-Recognition-Model
 
--Face Recognition Model using **OpenCv, dlib and Face Recognition** library. 
+--> Face Recognition Model using **OpenCv, dlib and Face Recognition** library. 
 
--Recognize and manipulate faces from Python or from the command line with the world's simplest face recognition library.
+--> Recognize and manipulate faces from Python or from the command line with the world's simplest face recognition library.
 
--This also provides a simple face_recognition command line tool that lets you do face recognition on a folder of images from the command line!
+--> This also provides a simple face_recognition command line tool that lets you do face recognition on a folder of images from the command line!
 
 ## Pre-Requisites 
 
