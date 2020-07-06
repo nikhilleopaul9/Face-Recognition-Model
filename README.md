@@ -18,3 +18,7 @@
 3) Run the script face_rec.py from the command prompt window in the folder's directory. 
 
 ## Test Image
+![test](https://user-images.githubusercontent.com/49313619/86589739-d90c5b80-bfab-11ea-90e8-eb50e1dc807c.jpg)
+
+
+## Example of Face Recognition 
