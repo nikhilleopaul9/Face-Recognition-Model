@@ -22,3 +22,4 @@ This also provides a simple face_recognition command line tool that lets you do 
 
 
 ## Example of Face Recognition 
+![Screenshot (19)](https://user-images.githubusercontent.com/49313619/86589965-3ef8e300-bfac-11ea-82b0-69a5564db5a2.png)
